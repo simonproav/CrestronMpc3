@@ -1,0 +1,7 @@
+{
+	"type": "MPC3x102Touchscreen",
+	"connection": {
+		"ipid": "E0",
+		"address": "AV-PRO-LUX-0-05"
+	}
+}
