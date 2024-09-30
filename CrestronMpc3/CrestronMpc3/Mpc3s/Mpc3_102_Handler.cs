@@ -25,6 +25,7 @@ namespace CrestronMpc3.Mpc3s {
         public new void Initialise() {
             _mpc3x102.EnableVolumeUpButton();
             _mpc3x102.EnableVolumeDownButton();
+            _mpc3x102.EnableProximityWakeup.BoolValue = true;
             base.Initialise();         
         }
 
