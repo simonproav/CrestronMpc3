@@ -1,0 +1,7 @@
+{
+	"type": "MPC3x102Touchscreen",
+	"connection": {
+		"ipid": "E1",
+		"address": "AV-PRO-ROM-SEN"
+	}
+}
