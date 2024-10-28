@@ -2,6 +2,6 @@
 	"type": "MPC3x102Touchscreen",
 	"connection": {
 		"ipid": "E0",
-		"address": "AV-PRO-ROM-SEN"
+		"address": "AV-PRO-ROM-TAC"
 	}
 }
